@@ -1,16 +1,34 @@
-## Hi there 👋
+# Jorge Rojas
 
-<!--
-**JordanRed/JordanRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer
 
-Here are some ideas to get you started:
+## Tecnologías
+- .NET
+- React
+- PostgreSQL
+- Python
+- Git
+- otras
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+
+### WebApiBroadcast
+API REST desarrollada con .NET y PostgreSQL utilizando JWT.
+
+### CV Analyzer
+Análisis automatizado de CVs utilizando Python.
+
+### LandingPage React
+Landing page desarrollada con React.
+
+## Actualmente trabajando en
+
+- SaaS para restaurantes
+- Aplicaciones web con IA
+- APIs REST escalables
+
+## Contacto
+
+LinkedIn: https://www.linkedin.com/in/jorge-daniel-rojas-andrade-783a3240/
+GitHub: https://github.com/JordanRed
+Email: rubrilumen@gmail.com
